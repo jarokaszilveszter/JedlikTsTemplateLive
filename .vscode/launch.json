@@ -1,0 +1,13 @@
+{
+	"version": "0.1.0",
+	// List of configurations. Add new configurations or edit existing ones.
+	"configurations": [
+		{
+            "name": "Debug in Chrome",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:8080/index.html",
+            "webRoot": "${workspaceRoot}"
+        }
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+        "sourceMap": true,
+        "outDir": "js",
+		"watch": true
+	},
+    "include": [
+        "ts/**/*"
+    ],
+    "exclude": [
+        "node_modules/**/*",
+        "**/node_modules/*"
+    ]
+}

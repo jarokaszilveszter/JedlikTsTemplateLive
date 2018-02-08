@@ -1,0 +1,14 @@
+{
+  "name": "jedlik--typescript-vscode-template-live_server",
+  "version": "1.0.0",
+  "description": "Jedlik project template for using Phaser and TypeScript in VS Code.",
+  "main": "",
+  "repository": {
+    "private": true
+  },
+  "scripts": {
+    "compile:ts": "tsc --module system --outFile ./js/app.js"
+  },
+  "author": "Nits László",
+  "license": "MIT"
+}
